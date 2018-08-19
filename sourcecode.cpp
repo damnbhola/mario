@@ -1,8 +1,10 @@
-//this source code is for dev c++
+//this code is for dev c++ ide
 
-//formatted source code for exe output
+//this code is end code for generation of exe file 
 
-//code starts below:
+
+//code begins below:
+
 
 
 #include<stdio.h>
